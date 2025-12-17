@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Build
+dist/
+
+# Env
+.env
+ecosystem.config.cjs
+
+# Logs
+logs/
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
